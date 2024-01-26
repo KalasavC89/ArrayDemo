@@ -6,6 +6,7 @@ package arraydemo;
 
 /**  This changed for the PULL
  *This is to show modification
+ *This is to show changes
  * @author knigh
  */
 public class Student {
